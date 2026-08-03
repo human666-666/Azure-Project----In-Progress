@@ -7,3 +7,11 @@ Azure project (in progress)
 ## First query: checking row count
 <img width="468" height="347" alt="1st-query" src="https://github.com/user-attachments/assets/21e97729-852f-4d79-a373-59315b128706" />
 
+## Checking data types
+<img width="462" height="587" alt="data-types" src="https://github.com/user-attachments/assets/b4a2a101-55bd-4f21-8819-875841f2204a" />
+
+## Checking character lengths
+<img width="1697" height="405" alt="checking-number-of-characters" src="https://github.com/user-attachments/assets/a34a57be-0235-4b8e-956e-4224ebdc1bf4" />
+
+## Creating the clean table
+<img width="642" height="582" alt="create-clean-table" src="https://github.com/user-attachments/assets/8c960dff-caa2-4ade-9cc0-36305b340de2" />
