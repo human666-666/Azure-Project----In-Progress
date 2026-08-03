@@ -19,3 +19,6 @@ Azure project (in progress)
 * Made the column names lowercase & used snake case.
 * Enforced character limits based on the check I performed in the previous step. The table is static, hence my choice of these character limits.
 * The context column was empty, so I removed it. This is appropriate because my table is static & won't be updated
+
+<img width="642" height="357" alt="insert-into-pt1" src="https://github.com/user-attachments/assets/a0c5c155-2942-426b-83ce-eaf9ae8f4c54" />
+<img width="593" height="337" alt="insert-into-pt2" src="https://github.com/user-attachments/assets/f6331e7a-6130-4d03-b97e-122bd5d2614d" />
