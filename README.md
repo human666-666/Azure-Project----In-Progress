@@ -14,7 +14,7 @@ Azure project (in progress)
 <img width="1697" height="405" alt="checking-number-of-characters" src="https://github.com/user-attachments/assets/a34a57be-0235-4b8e-956e-4224ebdc1bf4" />
 
 ## Creating the clean table
-<img width="500" height="400" alt="create-clean-table" src="https://github.com/user-attachments/assets/8c960dff-caa2-4ade-9cc0-36305b340de2" />
+<img width="400" height="500" alt="create-clean-table" src="https://github.com/user-attachments/assets/8c960dff-caa2-4ade-9cc0-36305b340de2" />
 
 * Made the column names lowercase & used snake case.
 * Enforced character limits based on the check I performed in the previous step. The table is static, hence my choice of these character limits.
