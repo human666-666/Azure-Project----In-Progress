@@ -55,6 +55,7 @@ Azure project (in progress)
 
 ## Web App
 Deployed both the database and the web app within a single resource group (rg-police-data), since they share the same lifecycle and ownership.
+<img width="1141" height="992" alt="image" src="https://github.com/user-attachments/assets/7fe3ceb8-3589-4c5c-96c6-20487cbd7fa5" />
 
 
 ## Appendix
