@@ -35,7 +35,12 @@ Azure project (in progress)
 
 ## Does the constraint work?
 <img width="1283" height="431" alt="image" src="https://github.com/user-attachments/assets/2ecacf57-10e9-4880-9320-4a3427048cdc" />
+
 * Yes it does!
+
+## Adding indexes to improve query performance
+<img width="520" height="68" alt="image" src="https://github.com/user-attachments/assets/79604656-8bd6-474a-b4ac-e4b0f79b86ad" />
+
 
 
 
