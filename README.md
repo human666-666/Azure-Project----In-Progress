@@ -42,6 +42,8 @@ Azure project (in progress)
 <img width="520" height="68" alt="image" src="https://github.com/user-attachments/assets/79604656-8bd6-474a-b4ac-e4b0f79b86ad" />
 <img width="521" height="57" alt="image" src="https://github.com/user-attachments/assets/327c794a-6ca9-4974-8711-33783bbe38f2" />
 
+## Analytics
+<img width="818" height="647" alt="image" src="https://github.com/user-attachments/assets/7729d189-7299-4c18-b65e-aa799b735391" />
 
 
 
