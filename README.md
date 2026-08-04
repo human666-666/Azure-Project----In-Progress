@@ -31,7 +31,7 @@ Azure project (in progress)
 
 ### Confirming insertion
 <img width="1133" height="323" alt="image" src="https://github.com/user-attachments/assets/5b775f23-f972-4e50-88b8-b2f388a15a72" />
-
+<img width="753" height="250" alt="image" src="https://github.com/user-attachments/assets/5f1044bd-458c-4c29-a2e0-edeedc5b5e10" />
 
 
 
