@@ -21,8 +21,12 @@ Azure project (in progress)
 * The context column was empty, so I removed it. This is appropriate because my table is static & won't be updated
 * Created a surrogate key
   
-## Confirming
+### Confirming
 <img width="562" height="327" alt="PK" src="https://github.com/user-attachments/assets/86519e02-e05d-4b37-bb85-27aa9983a11d" />
+
+## Insertion
+<img width="905" height="473" alt="insert-pt1" src="https://github.com/user-attachments/assets/3901cb7a-828d-4bcc-b43c-3b487714f975" />
+<img width="900" height="407" alt="insert-pt2" src="https://github.com/user-attachments/assets/7231e157-65d5-4ce0-a216-12291e4ec8c9" />
 
 
 
