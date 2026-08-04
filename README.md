@@ -53,10 +53,14 @@ Azure project (in progress)
 ## Alerts
 <img width="1620" height="372" alt="image" src="https://github.com/user-attachments/assets/5b47ed40-c817-4c45-a7fd-809d9af8f0bc" />
 
+## Web App
+Deployed both the database and the web app within a single resource group (rg-police-data), since they share the same lifecycle and ownership.
+
 
 ## Appendix
 ### Alert creation 
 <img width="1115" height="877" alt="Снимок экрана 2026-08-04 143020" src="https://github.com/user-attachments/assets/2f5a1ea6-c40c-4b19-891c-fa4da0887b9d" />
 <img width="1222" height="988" alt="Снимок экрана 2026-08-04 142732" src="https://github.com/user-attachments/assets/c78500f1-a68b-42ab-8341-9ad2c74acd48" />
+
 
 
