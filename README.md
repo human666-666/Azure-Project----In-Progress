@@ -22,6 +22,22 @@ Azure project (in progress)
 * Created a surrogate key
   
 ## Confirming
+<img width="562" height="327" alt="PK" src="https://github.com/user-attachments/assets/86519e02-e05d-4b37-bb85-27aa9983a11d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
