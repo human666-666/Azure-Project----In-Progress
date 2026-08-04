@@ -33,9 +33,9 @@ Azure project (in progress)
 <img width="1133" height="323" alt="image" src="https://github.com/user-attachments/assets/5b775f23-f972-4e50-88b8-b2f388a15a72" />
 <img width="885" height="257" alt="image" src="https://github.com/user-attachments/assets/117b6edb-6a22-4a03-9ec4-565d4b3fa6c7" />
 
-
-
-
+## Does the constraint work?
+<img width="1283" height="431" alt="image" src="https://github.com/user-attachments/assets/2ecacf57-10e9-4880-9320-4a3427048cdc" />
+* Yes it does!
 
 
 
