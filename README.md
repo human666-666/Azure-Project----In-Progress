@@ -50,3 +50,13 @@ Azure project (in progress)
 <img width="512" height="172" alt="image" src="https://github.com/user-attachments/assets/7ccae6dc-3e1e-402b-b53c-ad740aa20b70" />
 <img width="532" height="172" alt="image" src="https://github.com/user-attachments/assets/315d35c5-3bd6-4847-8105-a2e8d84293b9" />
 
+## Alerts
+<img width="1620" height="372" alt="image" src="https://github.com/user-attachments/assets/5b47ed40-c817-4c45-a7fd-809d9af8f0bc" />
+
+
+
+## Appendix
+### Alert creation 
+
+
+
