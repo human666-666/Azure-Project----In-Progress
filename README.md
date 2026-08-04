@@ -29,14 +29,8 @@ Azure project (in progress)
 <img width="900" height="407" alt="insert-pt2" src="https://github.com/user-attachments/assets/7231e157-65d5-4ce0-a216-12291e4ec8c9" />
 <img width="431" height="192" alt="image" src="https://github.com/user-attachments/assets/e93f4730-68f9-4ede-905d-479247928015" />
 
-
-
-
-
-
-
-
-
+### Confirming insertion
+<img width="1133" height="323" alt="image" src="https://github.com/user-attachments/assets/5b775f23-f972-4e50-88b8-b2f388a15a72" />
 
 
 
