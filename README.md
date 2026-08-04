@@ -56,8 +56,6 @@ Azure project (in progress)
 
 ## Appendix
 ### Alert creation 
-<img width="1847" height="355" alt="Снимок экрана 2026-08-04 142359" src="https://github.com/user-attachments/assets/55fc371c-3fd0-4fb2-802b-7011de3ac6c3" />
-
 <img width="1115" height="877" alt="Снимок экрана 2026-08-04 143020" src="https://github.com/user-attachments/assets/2f5a1ea6-c40c-4b19-891c-fa4da0887b9d" />
 <img width="1222" height="988" alt="Снимок экрана 2026-08-04 142732" src="https://github.com/user-attachments/assets/c78500f1-a68b-42ab-8341-9ad2c74acd48" />
 
