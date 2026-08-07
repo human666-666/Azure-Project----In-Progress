@@ -1,5 +1,5 @@
 # Azure Police Project
-Azure project (in progress)
+Azure project (API -> Database -> Dashboard)
 
 ## Confirming that the loading was successful
 <img width="1895" height="976" alt="police_db" src="https://github.com/user-attachments/assets/e7f94582-7f2a-4d52-8487-bb0f4d8f832b" />
