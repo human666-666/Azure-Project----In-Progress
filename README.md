@@ -62,6 +62,7 @@ Deployed both the database and the web app within a single resource group (rg-po
 <img width="1430" height="297" alt="image" src="https://github.com/user-attachments/assets/523d08f7-b2ad-4333-9dbf-e278fa36438d" />
 
 ### Added federated credentials after deployment errors
+<img width="1132" height="955" alt="Снимок экрана 2026-08-07 142957" src="https://github.com/user-attachments/assets/f7376b3c-2c01-443a-9b79-20d5a021c1cd" />
 
 
 ### Web App is Live
