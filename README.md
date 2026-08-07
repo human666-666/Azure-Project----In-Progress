@@ -61,6 +61,9 @@ Deployed both the database and the web app within a single resource group (rg-po
 
 <img width="1430" height="297" alt="image" src="https://github.com/user-attachments/assets/523d08f7-b2ad-4333-9dbf-e278fa36438d" />
 
+### Web App is Live
+https://derbyshire-police-data-2024-26.streamlit.app/
+
 ## Appendix
 ### Alert creation 
 <img width="1115" height="877" alt="Снимок экрана 2026-08-04 143020" src="https://github.com/user-attachments/assets/2f5a1ea6-c40c-4b19-891c-fa4da0887b9d" />
