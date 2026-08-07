@@ -73,5 +73,7 @@ https://derbyshire-police-data-2024-26.streamlit.app/
 <img width="1115" height="877" alt="Снимок экрана 2026-08-04 143020" src="https://github.com/user-attachments/assets/2f5a1ea6-c40c-4b19-891c-fa4da0887b9d" />
 <img width="1222" height="988" alt="Снимок экрана 2026-08-04 142732" src="https://github.com/user-attachments/assets/c78500f1-a68b-42ab-8341-9ad2c74acd48" />
 
+### Screenshot of federated credentials page
+<img width="1633" height="798" alt="Снимок экрана 2026-08-07 143022" src="https://github.com/user-attachments/assets/af2631b2-ed97-49d9-a57a-aa633c071206" />
 
 
